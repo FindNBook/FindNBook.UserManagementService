@@ -1,0 +1,6 @@
+@FindNBook.UserManagementService_HostAddress = http://localhost:5170
+
+GET {{FindNBook.UserManagementService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
